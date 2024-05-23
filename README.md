@@ -2,7 +2,7 @@
 
 A new Python Image Classification project.
 ## Demo Application
-[Demo](https://drive.google.com/file/d/1BLO7WeMVmAEQzxkFN_cg9zAJeuhUCUbH/view?usp=sharing)
+[Demo](https://drive.google.com/file/d/11Arnzrs04WQiYc0Wlputll7-38dmW9-q/view?usp=sharing)
 
 ## Getting Started
 
