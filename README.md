@@ -1,6 +1,6 @@
 # Aksara Image Classification
 
-A new Flutter project.
+A new Python Image Classification project.
 
 ## Getting Started
 
