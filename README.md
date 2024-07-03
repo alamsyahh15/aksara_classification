@@ -27,6 +27,10 @@ git clone https://github.com/alamsyahh15/aksara_classification.git
 ```bash
 pip install tensorflow numpy flask matplotlib pillow
 ```
+Or Using requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 3.  Running debug application with executing command
 
