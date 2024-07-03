@@ -27,22 +27,22 @@ git clone https://github.com/alamsyahh15/aksara_classification.git
 ```bash
 pip install tensorflow numpy flask matplotlib pillow
 ```
-Or Using requirements.txt
+3. Or Using requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
 
-3.  Running debug application with executing command
+4.  Running debug application with executing command
 
 ```bash
 python3 main.py
 ```
 
-3.  When you need make new model from datasets you just need open dir project in jupyter notebook and re-run using recomended kernel
+5.  When you need make new model from datasets you just need open dir project in jupyter notebook and re-run using recomended kernel
 
 ```bash
 cd [YOUR_DIRECTORY_PROJECT]
 jupypter-notebook
 ```
 
-4. Enjoy... :)
+6. Enjoy... :)
